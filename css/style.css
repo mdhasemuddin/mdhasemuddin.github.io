@@ -52,8 +52,8 @@ img.svg{
 }
 i{
 	font-size: 60px;
-	text-align: center !important;
 	padding-bottom: 10px;
+	align-items: center;
 }
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color: #6f6f6f;
