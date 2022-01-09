@@ -46,6 +46,8 @@ svg{
 	fill: currentcolor;
 	width: 15px;
 	height: 15px;
+	font-size: 60px;
+	text-align: center;
 }
 img.svg{
 	width: 15px;
