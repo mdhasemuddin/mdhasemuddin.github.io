@@ -44,9 +44,7 @@ body{
 }
 svg{
 	fill: currentcolor;
-	font-size: 60px;
-	padding-bottom: 10px;
-}
+	font-size: 60px;}
 img.svg{
 	width: 15px;
 	height: 15px;
