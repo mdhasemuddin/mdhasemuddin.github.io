@@ -46,11 +46,6 @@ svg{
 	fill: currentcolor;
 	font-size: 60px !important;
 }
-img.svg{
-	width: 15px;
-	height: 15px;
-}
-
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color: #6f6f6f;
 }
