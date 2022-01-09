@@ -44,16 +44,14 @@ body{
 }
 svg{
 	fill: currentcolor;
-
+	font-size: 60px;
+	padding-bottom: 10px;
 }
 img.svg{
 	width: 15px;
 	height: 15px;
 }
-i{
-	font-size: 60px;
-	padding-bottom: 10px;
-}
+
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color: #6f6f6f;
 }
