@@ -47,7 +47,7 @@ svg{
 	width: 15px;
 	height: 15px;
 	font-size: 60px;
-	text-align: center;
+	text-align: center !important;
 	padding-bottom: 10px;
 }
 img.svg{
